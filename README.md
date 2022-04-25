@@ -16,7 +16,7 @@
 
 👤 **Justine Imasiku**
 
-- GitHub: [@ice949](https://github.com/githubhandle)
+- GitHub: [@ice949](https://github.com/ice949)
 - Twitter: [@justine_imasiku](https://twitter.com/twitterhandle)
 - LinkedIn: [justine Imasiku](https://linkedin.com/in/linkedinhandle)
 
