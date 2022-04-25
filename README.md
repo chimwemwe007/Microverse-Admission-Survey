@@ -1,56 +1,30 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Microverse Survey Form
 
-> Description the project.
+> Review on the Microverse Survey form, surveying on how Micronautes feel after passing through the admission process.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
-
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
+- HTML
+- CSS
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Justine Imasiku**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@ice949](https://github.com/githubhandle)
+- Twitter: [@justine_imasiku](https://twitter.com/twitterhandle)
+- LinkedIn: [justine Imasiku](https://linkedin.com/in/linkedinhandle)
 
-👤 **Author2**
+👤 **Chimwemwe Mkhandawire**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@Chimwemwe007](https://github.com/githubhandle)
+- Twitter: [@chimwemwe](https://twitter.com/twitterhandle)
+- LinkedIn: [Chimwemwe Mk](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -64,8 +38,8 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
+- Chimwemwe Mkhandawire
+- Microverse
 - etc
 
 ## 📝 License
